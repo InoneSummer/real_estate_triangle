@@ -10,6 +10,10 @@
 
 서비스 데모: https://naileditapp.com
 
+영상 소개: [Ask Dori! YouTube에서 보기](https://youtu.be/xO-IstQTtDI?si=-RURo_Ib96gJrGGt)
+
+[![내 마음속 부동산 이동지도 소개 영상](https://img.youtube.com/vi/xO-IstQTtDI/hqdefault.jpg)](https://youtu.be/xO-IstQTtDI?si=-RURo_Ib96gJrGGt)
+
 ## 무엇을 보여주나요?
 
 사용자는 먼저 지금 사는 지역을 고릅니다. 그다음 그 지역에 있을 법한 페르소나를 선택합니다. 마지막 리포트에서는 해당 페르소나가 다음에 바라볼 만한 목적지를 네 가지 역할로 나누어 보여줍니다.
