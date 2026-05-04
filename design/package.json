@@ -1,0 +1,11 @@
+{
+  "name": "real-estate-triangle-web",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Static public demo for Ask Dori's real-estate desire map project.",
+  "scripts": {
+    "preview": "python3 -m http.server 4173",
+    "vercel:preview": "npx vercel",
+    "vercel:prod": "npx vercel --prod"
+  }
+}
